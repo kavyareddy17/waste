@@ -1,0 +1,83 @@
+.main-container{
+    width: 1200px;
+    height: 1200px;
+}
+#mainwell
+{
+
+    width: 1100px;
+    right: 300px;
+
+
+    position: relative;
+
+}
+.container-fluid{
+    position: relative;
+    top: -70px;
+}
+
+.container
+
+{
+
+    width:500px;
+
+    top: 10px;
+
+    min-height:200;
+
+    position: relative;
+
+}
+
+.badge
+
+{
+
+    font-size:20px; left: 450px; top: -100px;
+
+    position: relative;
+
+}
+
+.well
+
+{
+
+    min-height:10px;
+
+    border-color:black;
+
+}
+
+#innerwell
+
+{
+
+    top: -20px;
+
+    width: 500px;
+
+    min-height:100px;
+
+    left: 170px;
+
+    position: relative;
+
+}
+
+#timing
+
+
+
+
+{
+
+    left: 0px;
+
+    position: relative;
+
+    top: 0px;
+
+}
